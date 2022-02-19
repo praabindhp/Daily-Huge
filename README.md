@@ -1,2 +1,2 @@
 # Daily-Huge
-Program For Running Daily Huge Logs
+Python3 Program For Running Daily Huge Logs
